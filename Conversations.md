@@ -33,5 +33,5 @@
 
 **User:** Reported a `MODULE_NOT_FOUND` error for `next` when running `npm run dev`.
 **Agent:** Identified that `next`, `@t3-oss/env-nextjs`, and `next-pwa` were missing from `package.json`. Restored these dependencies and reinstalled.
-
-
+**User:** build project (failed with `next-pwa` type error).
+**Agent:** Installed `@types/next-pwa` and successfully executed `npm run build`.
