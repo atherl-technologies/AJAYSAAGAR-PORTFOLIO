@@ -1,0 +1,149 @@
+{
+  "name": "AJAYSAAGAR",
+  "fullName": "AJAYSAAGAR DEV",
+  "email": "ajaysaagar.dev@gmail.com",
+  "hero": {
+    "title": "Hello, I'm",
+    "description": "Versatile digital creator skilled in game development, 3D art, web development, and sound engineering.",
+    "pills": [
+      "Game Developer",
+      "3D Artist",
+      "Environmental Artist",
+      "Texturing Artist",
+      "Full-stack Developer",
+      "IoT Systems",
+      "Sound Engineer"
+    ],
+    "rotatingTexts": [
+      "Game Developer",
+      "3D Artist",
+      "Environmental Artist",
+      "Texturing Artist",
+      "Full-stack Developer",
+      "IoT Systems",
+      "Sound Engineer"
+    ],
+    "logoLoop": [
+      {
+        "label": "Game Developer"
+      },
+      {
+        "label": "3D Artist"
+      },
+      {
+        "label": "Environmental Artist"
+      },
+      {
+        "label": "Texturing Artist"
+      },
+      {
+        "label": "Full-stack Developer"
+      },
+      {
+        "label": "IoT Systems"
+      },
+      {
+        "label": "Sound Engineer"
+      }
+    ],
+    "shinyTextGradient": [
+      "#5227FF",
+      "#FF9FFC",
+      "#B19EEF"
+    ]
+  },
+  "about": {
+    "description": "I’m a versatile digital creator with experience across multiple disciplines, including **Game Development, 3D Modeling, Environment Art, and Texturing Models.** My skill set also extends to full-stack web development and professional sound engineering, allowing me to approach projects with a complete technical and artistic perspective.",
+    "stats": [
+      {
+        "label": "Years of Experience",
+        "value": "7+"
+      },
+      {
+        "label": "Technologies mastered",
+        "value": "4+"
+      },
+      {
+        "label": "Pursuing",
+        "value": "B.Tech AI$DS Student"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Resident Evil's Enemy System",
+      "thumbnail": "/assets/RE_01.png",
+      "youtube_video": "https://www.youtube.com/embed/QskGTvKslX8?si=CwHvBH2Sx3-1ZZYW&amp;start=10"
+    },
+    {
+      "title": "Resident Evil's Enemy System",
+      "thumbnail": "/assets/RE_01.png",
+      "youtube_video": "https://www.youtube.com/embed/QskGTvKslX8?si=CwHvBH2Sx3-1ZZYW&amp;start=10"
+    },
+    {
+      "title": "Resident Evil's Enemy System",
+      "thumbnail": "/assets/RE_01.png",
+      "youtube_video": "https://www.youtube.com/embed/QskGTvKslX8?si=CwHvBH2Sx3-1ZZYW&amp;start=10"
+    },
+    {
+      "title": "Resident Evil's Enemy System",
+      "thumbnail": "/assets/RE_01.png",
+      "youtube_video": "https://www.youtube.com/embed/QskGTvKslX8?si=CwHvBH2Sx3-1ZZYW&amp;start=10"
+    }
+  ],
+  "services": [
+    {
+      "service": "Game Development",
+      "description": "Creating stellar user interfaces and web experiences using the latest technologies.",
+      "icon": "Code2"
+    },
+    {
+      "service": "Frontend Development",
+      "description": "Creating stellar user interfaces and web experiences using the latest technologies.",
+      "icon": "Code2"
+    },
+    {
+      "service": "UX Design",
+      "description": "Building intuitive, user-centric designs that drive engagement and conversion.",
+      "icon": "Frame"
+    },
+    {
+      "service": "Responsive Design",
+      "description": "Designing websites that look and perform equally well on all devices and screen sizes.",
+      "icon": "MonitorSmartphone"
+    },
+    {
+      "service": "Backend Development",
+      "description": "Developing robust, scalable server-side logic for a wide range of web applications.",
+      "icon": "Eye"
+    }
+  ],
+  "navLinks": [
+    {
+      "href": "#home",
+      "text": "Home"
+    },
+    {
+      "href": "#about",
+      "text": "About"
+    },
+    {
+      "href": "#projects",
+      "text": "Projects"
+    },
+    {
+      "href": "#services",
+      "text": "Services"
+    },
+    {
+      "href": "#contact",
+      "text": "Contact"
+    }
+  ],
+  "meta": {
+    "description": "Game Developer and Full-stack Developer.",
+    "image": "/assets/logo.jpg",
+    "themeColor": "#7B82FE",
+    "siteUrl": "https://www.wendoj.codes"
+  }
+}

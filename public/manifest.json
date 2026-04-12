@@ -1,0 +1,38 @@
+{
+    "theme_color": "#7B82FE",
+    "background_color": "#0A0A13",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "name": "AJAYSAAGAR DEV",
+    "short_name": "ajaysaagar",
+    "description": "Game/Full-Stack developer and 3D Artist",
+    "icons": [
+        {
+            "src": "/assets/logo.jpg",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/assets/logo.jpg",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/assets/logo.jpg",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/assets/logo.jpg",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ],
+    "splash_pages": null
+}
